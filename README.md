@@ -19,7 +19,7 @@ There are no enemies or goals—this project is mainly a sandbox for testing and
 - Input: Keyboard (WASD)
 - No external game engine used
 
-## 🎯 Goals of the Project
+## Goals of the Project
 
 This game was made to practice:
 
@@ -29,7 +29,7 @@ This game was made to practice:
 - Creating interactable items
 - Basic game rendering loop
 
-## 🔄 Future Ideas (Optional)
+## Future Ideas (Optional)
 
 - Add a menu or restart system
 - Expand the map and add transitions between areas
