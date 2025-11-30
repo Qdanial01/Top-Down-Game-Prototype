@@ -26,3 +26,6 @@ Since I am not using a game-engine there is no drag and drop or map editor to cr
 2. Navigate into the project directory
 3. Compile Java source files
 4. Run main class
+
+## 🖼️ Preview
+https://github.com/user-attachments/assets/f6f2cca1-2f5d-43fc-b9bd-5070f8314ef9
